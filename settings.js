@@ -16,17 +16,17 @@ global.botNumber = ''
 
 global.owner = [
 // <-- Número @s.whatsapp.net -->
-  ['51988514570', '🎵 Brauliovh3 - Hatsune Miku Dev 🎵', true],
-  ['51988514570', '(ㅎㅊDEPOOLㅊㅎ)', true],
+  ['529535402567', '🥖 Rafael101_1 - Kasane Teto Dev 🥖', true],
+  ['529535402567', 'Rafael101_1', true],
   
 // <-- Número @lid -->
-  ['141807421759536', '(ㅎㅊDEPOOLㅊㅎ)', true]
+  ['88141704769638', 'Rafael101_1', true]
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.mods = []
-global.suittag = ['51988514570'] 
+global.suittag = ['529535402567'] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -34,25 +34,25 @@ global.prems = []
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.17' 
 global.vs = '2.2.5'
-global.nameqr = '🎵 Hatsune-Miku-MD 🎵'
-global.namebot = '💙 Ｈａｔｓｕｎｅ Ｍｉｋｕ Ｂｏｔ 💙'
+global.nameqr = '💫 Kasane Teto MD 💫'
+global.namebot = '❤️ kａ s a ｎｅ T e t o Ｂｏｔ ❤️'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '🎤✨ 𝙃𝘼𝙏𝙎𝙐𝙉𝙀 𝙈𝙄𝙆𝙐 𝘽𝙊𝙏 ✨🎤'
-global.botname = '🄷🄰🅃🅂🅄🄽🄴 🄼🄸🄺🅄'
-global.wm = '🎵◟Hαƚsυɳҽ Mιƙυ◞🎵'
-global.author = '© (ㅎㅊDEPOOLㅊㅎ)'
-global.dev = '© 🄿🄾🅆🄴🅁🄴🄳 (ㅎㅊDEPOOLㅊㅎ)'
-global.textbot = '🎤Hatsune Miku, la Diva Virtual del Futuro🎤'
-global.etiqueta = '🎵(ㅎㅊDEPOOLㅊㅎ)🎵'
+global.packname = '🥖💫KASANE TETO DEV💫🥖'
+global.botname = 'KaSaNE tEtO'
+global.wm = '❤️•kasane teto•❤️'
+global.author = '© Rsfael101_1'
+global.dev = '© 🄿🄾🅆🄴🅁🄴🄳 Rafael101_1'
+global.textbot = '🥖 Kasane Teto, la chimera vitual mas querida de internet💫'
+global.etiqueta = '🥖Rafael101_1'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.moneda = '🎵 Mikucoins'
+global.moneda = '🥖 baguettes'
 global.welcom1 = '💙 ¡Konnichiwa! Bienvenido al mundo virtual de Hatsune Miku! 💙 \n✨ Aquí podrás disfrutar de la magia musical ✨ \n🎶 Edita este mensaje con setwelcome 🎶'
 global.welcom2 = '💫 ¡Sayonara! Gracias por cantar con nosotros 🌟 \n🎵 ¡Esperamos verte pronto en el escenario virtual! 🎵 \n🎤 Edita este mensaje con setbye 🎤'
 global.banner = 'https://files.catbox.moe/t5iqh7.jpg'
