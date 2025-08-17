@@ -1,5 +1,3 @@
-//🔶 no debe funcionar 
-/*
 import fs from 'fs'
 
 async function handler(m, {usedPrefix}) {
@@ -21,4 +19,3 @@ handler.tags = ['serbot']
 handler.private = true
 
 export default handler 
-*/

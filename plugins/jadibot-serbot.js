@@ -1,5 +1,3 @@
-//🔶 no debe funcionar 
-/*
 const { useMultiFileAuthState, DisconnectReason, makeCacheableSignalKeyStore, fetchLatestBaileysVersion, Browsers } = (await import("@whiskeysockets/baileys"));
 import qrcode from "qrcode"
 import NodeCache from "node-cache"
@@ -369,4 +367,3 @@ async function joinChannels(conn) {
         await conn.newsletterFollow(channelId).catch(() => {})
     }
 }
-*/

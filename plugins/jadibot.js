@@ -1,5 +1,3 @@
-//🔶 no debe funcionar 
-/*
 import { readdirSync, statSync, unlinkSync, existsSync, readFileSync, watch, rmSync, promises as fsPromises } from "fs";
 const fs = { ...fsPromises, existsSync };
 import path, { join } from 'path' 
@@ -82,4 +80,3 @@ handler.help = ['sockets', 'deletesesion', 'pausarai']
 handler.command = ['deletesesion', 'deletebot', 'deletesession', 'deletesession', 'stop', 'pausarai', 'pausarbot', 'bots', 'sockets', 'socket']
 
 export default handler
-*/
