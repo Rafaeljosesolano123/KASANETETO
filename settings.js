@@ -34,8 +34,8 @@ global.prems = []
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.17' 
 global.vs = '2.2.5'
-global.nameqr = '🎵 Hatsune-Miku-MD 🎵'
-global.namebot = '💙 Ｈａｔｓｕｎｅ Ｍｉｋｕ Ｂｏｔ 💙'
+global.nameqr = '❤️‍🔥Kasane-Teto-MD❤️‍🔥'
+global.namebot = '❤️ K a s a n e T e t o B o t ❤️'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.yukiJadibts = true
@@ -45,16 +45,16 @@ global.yukiJadibts = true
 global.packname = '🎤✨ 𝙃𝘼𝙏𝙎𝙐𝙉𝙀 𝙈𝙄𝙆𝙐 𝘽𝙊𝙏 ✨🎤'
 global.botname = '🄷🄰🅃🅂🅄🄽🄴 🄼🄸🄺🅄'
 global.wm = '🎵◟Hαƚsυɳҽ Mιƙυ◞🎵'
-global.author = '© (ㅎㅊDEPOOLㅊㅎ)'
-global.dev = '© 🄿🄾🅆🄴🅁🄴🄳 (ㅎㅊDEPOOLㅊㅎ)'
-global.textbot = '🎤Hatsune Miku, la Diva Virtual del Futuro🎤'
-global.etiqueta = '🎵(ㅎㅊDEPOOLㅊㅎ)🎵'
+global.author = '© Rafael101_1'
+global.dev = '© 🄿🄾🅆🄴🅁🄴🄳 Rafael101_1'
+global.textbot = '🥖 Kasane Teto, la Chimera virtual mas querida se internet 🥖'
+global.etiqueta = '🥖Rafael101_1🥖'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.moneda = '🎵 Mikucoins'
-global.welcom1 = '💙 ¡Konnichiwa! Bienvenido al mundo virtual de Hatsune Miku! 💙 \n✨ Aquí podrás disfrutar de la magia musical ✨ \n🎶 Edita este mensaje con setwelcome 🎶'
-global.welcom2 = '💫 ¡Sayonara! Gracias por cantar con nosotros 🌟 \n🎵 ¡Esperamos verte pronto en el escenario virtual! 🎵 \n🎤 Edita este mensaje con setbye 🎤'
+global.moneda = '🥖 Baguettes'
+global.welcom1 = '❤️ ¡Bienvenido! Un nuevo estudiante ah llegado a la academia❤️ \n✨ Aquí podrás disfrutar y aprender de la magia musical ✨ \n🥖 Edita este mensaje con setwelcome 🥖'
+global.welcom2 = '💫 ¡Adios! Un estudiante se ah graduado 🎓 \n❤️ ¡Esperamos volver a verte en nuestra academia ❤️! ❤️ \n🎤 Edita este mensaje con setbye 🎤'
 global.banner = 'https://files.catbox.moe/t5iqh7.jpg'
 global.avatar = 'https://files.catbox.moe/t5iqh7.jpg'
 
