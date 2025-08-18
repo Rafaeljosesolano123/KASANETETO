@@ -42,9 +42,9 @@ global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '🎤✨ 𝙃𝘼𝙏𝙎𝙐𝙉𝙀 𝙈𝙄𝙆𝙐 𝘽𝙊𝙏 ✨🎤'
-global.botname = '🄷🄰🅃🅂🅄🄽🄴 🄼🄸🄺🅄'
-global.wm = '🎵◟Hαƚsυɳҽ Mιƙυ◞🎵'
+global.packname = '❤️💫 KASANE TETO 💫❤️'
+global.botname ='kasane teto'
+global.wm = '❤️‍🔥•{kasane teto}•❤️‍🔥'
 global.author = '© Rafael101_1'
 global.dev = '© 🄿🄾🅆🄴🅁🄴🄳 Rafael101_1'
 global.textbot = '🥖 Kasane Teto, la Chimera virtual mas querida se internet 🥖'
@@ -54,9 +54,9 @@ global.etiqueta = '🥖Rafael101_1🥖'
 
 global.moneda = '🥖 Baguettes'
 global.welcom1 = '❤️ ¡Bienvenido! Un nuevo estudiante ah llegado a la academia❤️ \n✨ Aquí podrás disfrutar y aprender de la magia musical ✨ \n🥖 Edita este mensaje con setwelcome 🥖'
-global.welcom2 = '💫 ¡Adios! Un estudiante se ah graduado 🎓 \n❤️ ¡Esperamos volver a verte en nuestra academia ❤️! ❤️ \n🎤 Edita este mensaje con setbye 🎤'
-global.banner = 'https://files.catbox.moe/t5iqh7.jpg'
-global.avatar = 'https://files.catbox.moe/t5iqh7.jpg'
+global.welcom2 = '💫 ¡Adios! Un estudiante se ah graduado 🎓 \n❤️ ¡Esperamos volver a verte en nuestra academia ❤️! ❤️ \n🎓 Edita este mensaje con setbye 🎓'
+global.banner = 'https://files.catbox.moe/3ospgj.jpg'
+global.avatar = 'https://files.catbox.moe/a7nvp8.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
