@@ -96,12 +96,12 @@ const roles = {
 '*💫🌹 Histiriador Músical  III 🌹💫*': 950,
 '*💫🌹 Historiador Musical II 🌹💫*': 975,
 '*💫🌹 Historiador Musical I 🌹💫*': 999,
-'*💙👑 Deidad Virtual Eterna V 👑💙*': 1000,
-'*💙👑 Deidad Virtual Eterna IV 👑💙*': 2000,
-'*💙👑 Deidad Virtual Eterna III 👑💙*': 3000,
-'*💙👑 Deidad Virtual Eterna II 👑💙*': 4000,
-'*💙👑 Deidad Virtual Eterna I 👑💙*': 5000,
-'*🎤✨💫 Gran Diva del Infinito Digital 💫✨🎤*': 10000,
+'*❤️❤️‍🔥 Genio Musical V ❤️‍🔥❤️*': 1000,
+'*❤️❤️‍🔥 Genio Musical IV ❤️‍🔥❤️*': 2000,
+'*❤️❤️‍🔥 Genio Musical III ❤️‍🔥❤️*': 3000,
+'*❤️❤️‍🔥 Genio Musical II ❤️‍🔥❤️*': 4000,
+'*❤️❤️‍🔥 Henio Musical I ❤️‍🔥❤️*': 5000,
+'*🎓🌹❤️ Lider de la Tarima en la Orquesta Musical ❤️🌹🎓*': 10000,
 }
 
 let handler = m => m
