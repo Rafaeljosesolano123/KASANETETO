@@ -7,74 +7,74 @@ let uptime = clockString(_uptime)
 let totalreg = Object.keys(global.db.data.users).length
 let totalCommands = Object.values(global.plugins).filter((v) => v.help && v.tags).length
     
-let txt = `✨ *HATSUNE MIKU BOT* ✨
-🎤 ¡Konnichiwa, @${userId.split('@')[0]}! 
+let txt = `💫 *KASANE TETO BOT* 💫
+💥 ¡Hola!, @${userId.split('@')[0]}! 
 
-💙 *Estado:* ${(conn.user.jid == global.conn.user.jid ? 'Principal ⚡️' : 'Sub-Bot 🔌')}
+❤️ *Estado:* ${(conn.user.jid == global.conn.user.jid ? 'Principal ⚡️' : 'Sub-Bot 🔌')}
 ⏰ *Activo:* ${uptime}
 👥 *Usuarios:* ${totalreg}
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 🔍 *BUSCADORES*
-• .pinterest / #pin - Imágenes Pinterest
-• .google - Búsquedas Google
-• .yts / #ytsearch - Videos YouTube
-• .imagen / #image - Imágenes Google
-• .infoanime - Info anime/manga
-• .tiktoksearch / #tiktoks - Videos TikTok
-• .githubsearch - Usuarios GitHub
-• .cuevana / #cuevanasearch - Películas y series
-• .tweetposts - Posts de Twitter/X
-• .hentaisearch - Contenido hentai
-• .xnxxsearch / #xnxxs - Videos Xnxx
-• .xvsearch / #xvideossearch - Videos Xvideos
-• .pornhubsearch / #phsearch - Videos Pornhub
-• .npmjs - Paquetes NPM
+•❤️ .pinterest / #pin - Imágenes Pinterest
+•💫 .google - Búsquedas Google
+•🌟 .yts / #ytsearch - Videos YouTube
+•💥 .imagen / #image - Imágenes Google
+•🌹 .infoanime - Info anime/manga
+•🥖 .tiktoksearch / #tiktoks - Videos TikTok
+•🎓 .githubsearch - Usuarios GitHub
+•✨ .cuevana / #cuevanasearch - Películas y series
+•❤️‍🔥 .tweetposts - Posts de Twitter/X
+•❣️ .hentaisearch - Contenido hentai
+•👾 .xnxxsearch / #xnxxs - Videos Xnxx
+•👻 .xvsearch / #xvideossearch - Videos Xvideos
+•🌷 .pornhubsearch / #phsearch - Videos Pornhub
+•💐 .npmjs - Paquetes NPM
 
 📥 *DESCARGAS*
-• .play / #play2 - Música/video YouTube
-• .tiktok / #tt - Videos TikTok
-• .instagram / #ig - Posts Instagram
-• .facebook / #fb - Videos Facebook
-• .mediafire / #mf - Archivos MediaFire
-• .mega / #mg - Archivos MEGA
-• .twitter / #x - Videos Twitter/X
-• .ytmp3 / #ytmp4 - YouTube por URL
-• .pinvid / #pinvideo - Videos Pinterest
-• .terabox / #tb - Archivos Terabox
-• .gitclone - Repositorios GitHub
-• .apk / #modapk - APKs de Aptoide
-• .xvideosdl - Descargar Xvideos
-• .xnxxdl - Descargar Xnxx
-• .tiktokrandom / #ttrandom - TikTok aleatorio
-• .npmdl / #npmdownloader - Paquetes NPM
+•🍎 .play / #play2 - Música/video YouTube
+•☄️ .tiktok / #tt - Videos TikTok
+•🔥 .instagram / #ig - Posts Instagram
+•💥 .facebook / #fb - Videos Facebook
+•🍁 .mediafire / #mf - Archivos MediaFire
+•🥖 .mega / #mg - Archivos MEGA
+•🪷 .twitter / #x - Videos Twitter/X
+•✨ .ytmp3 / #ytmp4 - YouTube por URL
+•❤️‍🔥 .pinvid / #pinvideo - Videos Pinterest
+•❣️ .terabox / #tb - Archivos Terabox
+•👾 .gitclone - Repositorios GitHub
+•👻 .apk / #modapk - APKs de Aptoide
+•🌷 .xvideosdl - Descargar Xvideos
+•💐 .xnxxdl - Descargar Xnxx
+•⚡ .tiktokrandom / #ttrandom - TikTok aleatorio
+•🍓 .npmdl / #npmdownloader - Paquetes NPM
 
 🎨 *STICKERS*
-• .s / #sticker - Crear sticker
-• .toimg / #img - Sticker a imagen
-• .emojimix - Mezclar emojis
-• .qc - Stickers con texto
-• .ttp / #attp / #brat - Texto a sticker
+•🎧 .s / #sticker - Crear sticker
+•💓 .toimg / #img - Sticker a imagen
+•🌹 .emojimix - Mezclar emojis
+•☄️ .qc - Stickers con texto
+•👾 .ttp / #attp / #brat - Texto a sticker
 • .wm - Cambiar marca de agua
-• .setmeta - Establecer pack y autor
-• .delmeta - Eliminar pack stickers
-• .pfp / #getpic - Foto de perfil
+•🌷 .setmeta - Establecer pack y autor
+•🍁 .delmeta - Eliminar pack stickers
+•🪷 .pfp / #getpic - Foto de perfil
 
 💰 *ECONOMÍA & RPG*
-• .work / #trabajar - Trabajar
-• .daily / #diario - Recompensa diaria
-• .mine / #mining / #minar - Minar recursos
-• .casino / #apostar - Apostar
-• .cf / #suerte - Cara o cruz
-• .slot - Tragamonedas
-• .ruleta / #roulette / #rt - Ruleta
-• .steal / #robar / #rob - Robar dinero
-• .robarxp / #robxp - Robar XP
-• .bank / #banco - Ver banco
-• .wallet / #cartera - Ver cartera
-• .deposit / #depositar / #d - Depositar
-• .withdraw / #retirar / #with - Retirar
+•🎁 .work / #trabajar - Trabajar
+•💎 .daily / #diario - Recompensa diaria
+•👑 .mine / #mining / #minar - Minar recursos
+•🏆 .casino / #apostar - Apostar
+•🥀 .cf / #suerte - Cara o cruz
+•🥖 .slot - Tragamonedas
+•❤️ .ruleta / #roulette / #rt - Ruleta
+•👻 .steal / #robar / #rob - Robar dinero
+•❤️‍🔥 .robarxp / #robxp - Robar XP
+•⚡ .bank / #banco - Ver banco
+•💫 .wallet / #cartera - Ver cartera
+•💎 .deposit / #depositar / #d - Depositar
+•👑 .withdraw / #retirar / #with - Retirar
 • .transfer / #pay - Transferir dinero
 • .buyall / #buy - Comprar con XP
 • .cofre - Cofre diario
