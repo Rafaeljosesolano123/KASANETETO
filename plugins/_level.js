@@ -91,7 +91,7 @@ const roles = {
 '*🎓💎 Sabio(a) de las Armonias III 💎🎓*': 850,
 '*🎓💎 Sabio(a) de las Armonias II 💎🎓*': 875,
 '*🎓💎 Sabio(a) de las Armonias I 💎🎓*': 899,
-'*💫🌹 Historiador Músical V 🌹💫*,:900,
+'*💫🌹 Historiador Músical V 🌹💫*':900,
 '*💫🌹 Historiador Músical  IV 🌹💫*': 925,
 '*💫🌹 Histiriador Músical  III 🌹💫*': 950,
 '*💫🌹 Historiador Musical II 🌹💫*': 975,
