@@ -92,88 +92,88 @@ let txt = `💫 *KASANE TETO BOT* 💫
 •❤️‍🔥 .slut - Trabajo prostituta
 
 🎯 *GACHA & WAIFUS*
-• .rollwaifu / #rw / #roll - Buscar waifu
-• .claim / #c / #reclamar - Reclamar personaje
-• .harem / #waifus / #claims - Ver colección
-• .charimage / #waifuimage / #wimage - Imagen personaje
-• .charinfo / #winfo / #waifuinfo - Info personaje
-• .givechar / #givewaifu / #regalar - Regalar personaje
-• .vote / #votar - Votar personaje
-• .waifusboard / #waifustop / #topwaifus - Top waifus
+• .rollwaifu - Buscar waifu
+• .claim - Reclamar personaje
+• .harem - Ver colección
+• .charimage - Imagen personaje
+• .charinfo - Info personaje
+• .givechar - Regalar personaje
+• .vote - Votar personaje
+• .waifusboard - Top waifus
 
 🎮 *JUEGOS*
 • .ttt - Tres en raya
 • .ppt - Piedra/papel/tijera
-• .matematicas / #mates - Quiz matemático
+• .matematicas - Quiz matemático
 • .ahorcado - Juego del ahorcado
-• .sopa / #buscarpalabra - Sopa de letras
-• .pvp / #suit - PvP contra usuario
+• .sopa - Sopa de letras
+• .pvp - PvP contra usuario
 
 👥 *GRUPOS (Solo admins)*
 • .hidetag - Mencionar todos oculto
 • .kick - Eliminar usuario
-• .add / #añadir / #agregar - Invitar usuario
+• .add - Invitar usuario
 • .promote - Dar admin
 • .demote - Quitar admin
 • .link - Enlace del grupo
-• .revoke / #restablecer - Restablecer enlace
-• .group / #grupo [open/close] - Abrir/cerrar grupo
-• .warn / #advertir / #warning - Advertir usuario
-• .unwarn / #delwarn - Quitar advertencias
-• .advlist / #listadv - Ver advertidos
+• .revoke - Restablecer enlace
+• .group - Abrir/cerrar grupo
+• .warn - Advertir usuario
+• .unwarn - Quitar advertencias
+• .advlist - Ver advertidos
 • .mute - Silenciar usuario
 • .unmute - Quitar silencio
-• .delete / #del - Eliminar mensaje
-• .admins / #admin - Mencionar admins
-• .gp / #infogrupo - Info del grupo
-• .linea / #listonline - Usuarios online
+• .delete - Eliminar mensaje
+• .admins - Mencionar admins
+• .gp - Info del grupo
+• .linea - Usuarios online
 • .setwelcome - Mensaje bienvenida
 • .setbye - Mensaje despedida
-• .encuesta / #poll - Crear encuesta
+• .encuesta - Crear encuesta
 • .fantasmas - Ver usuarios inactivos
 • .kickfantasmas - Eliminar inactivos
-• .invocar / #tagall / #todos - Invocar todos
-• .setemoji / #setemo - Cambiar emoji
-• .listnum / #kicknum - Eliminar por país
-• .gpbanner / #groupimg - Cambiar imagen grupo
-• .gpname / #groupname - Cambiar nombre
-• .gpdesc / #groupdesc - Cambiar descripción
+• .invocar - Invocar todos
+• .setemoji - Cambiar emoji
+• .listnum - Eliminar por país
+• .gpbanner - Cambiar imagen grupo
+• .gpname - Cambiar nombre
+• .gpdesc - Cambiar descripción
 • .bot on/off - Encender/apagar bot
 
 🛠️ *HERRAMIENTAS*
-• .clima / #tiempo - Ver clima
-• .translate / #traducir / #trad - Traducir
-• .enhance / #remini / #hd - Mejorar imagen
-• .calcular / #cal - Calculadora
-• .fake / #fakereply - Mensajes falsos
+• .clima - Ver clima
+• .translate - traducir
+• .enhance - Mejorar imagen
+• .calcular - Calculadora
+• .fake - Mensajes falsos
 • .letra - Cambiar fuente letras
 • .read / #readviewonce / #ver - Ver imágenes una vista
-• .whatmusic / #shazam - Identificar canciones
-• .ss / #ssweb - Screenshot páginas web
-• .length / #tamaño - Cambiar tamaño archivos
-• .say / #decir - Repetir mensajes
-• .todoc / #todocument - Crear documentos
+• .whatmusic - Identificar canciones
+• .ss - Screenshot páginas web
+• .length  - Cambiar tamaño archivos
+• .say - Repetir mensajes
+• .todoc - Crear documentos
 • .horario - Horario global países
 
 🎌 *ANIME & REACCIONES*
 • .hug - Dar abrazos
-• .kiss / #besar / #kiss2 - Dar besos
+• .kiss - Dar besos
 • .pat - Acariciar
 • .slap - Abofetear
 • .cry - Llorar
-• .happy / #feliz - Estar feliz
-• .angry / #enojado - Estar enojado
-• .love / #amor - Enamorarse
+• .happy - Estar feliz
+• .angry - Estar enojado
+• .love - Enamorarse
 • .bite - Morder
 • .bleh - Sacar lengua
 • .blush - Sonrojarse
-• .bored / #aburrido - Estar aburrido
+• .bored - Estar aburrido
 • .cuddle - Acurrucarse
 • .dance - Bailar
 • .drunk - Estar borracho
-• .eat / #comer - Comer
+• .eat - Comer
 • .facepalm - Palmada cara
-• .impregnate / #preg - Embarazar
+• .impregnate - Embarazar
 • .kill - Matar
 • .laugh - Reírse
 • .lick - Lamer
@@ -181,79 +181,76 @@ let txt = `💫 *KASANE TETO BOT* 💫
 • .pout - Hacer pucheros
 • .punch - Dar puñetazo
 • .run - Correr
-• .sad / #triste - Estar triste
+• .sad - Estar triste
 • .scared - Estar asustado
 • .seduce - Seducir
-• .shy / #timido - Sentir timidez
-• .dias / #days - Buenos días
-• .noches / #nights - Buenas noches
+• .shy - Sentir timidez
+• .dias - Buenos días
+• .noches - Buenas noches
 • .sleep - Irse a dormir
 • .smoke - Fumar
 • .think - Pensar
 
 🔞 *NSFW (Solo +18)*
 • .waifu - Waifu NSFW
-• .rule34 / #r34 - Buscar R34
+• .rule34 - Buscar R34
 • .anal - Contenido anal
 • .bath - Bañarse juntos
-• .blowjob / #mamada / #bj - Hacer mamada
+• .blowjob - Hacer mamada
 • .boobjob - Hacer rusa
 • .cum - Venirse
 • .fap - Hacerse paja
-• .ppcouple / #ppcp - Imágenes parejas
+• .ppcouple - Imágenes parejas
 • .footjob - Paja con pies
-• .fuck / #coger / #fuck2 - Follar
-• .cafe / #coffee - Tomar café juntos
-• .violar / #perra - Violar
+• .fuck - Follar
+• .cafe - Tomar café juntos
+• .violar - Violar
 • .grabboobs - Agarrar pechos
 • .grop - Manosear
 • .lickpussy - Lamer coño
-• .sixnine / #69 - Hacer 69
-• .spank / #nalgada - Dar nalgada
+• .sixnine - Hacer 69
+• .spank - Dar nalgada
 • .suckboobs - Chupar pechos
-• .undress / #encuerar - Desnudar
-• .yuri / #tijeras - Hacer tijeras lésbicas
+• .undress - Desnudar
+• .yuri - Hacer tijeras lésbicas
 
 📝 *PERFIL & USUARIO*
-• .reg / #verificar / #register - Registrarse
+• .reg - Registrarse
 • .unreg - Eliminar registro
 • .profile - Ver perfil
 • .marry - Casarse
 • .divorce - Divorciarse
-• .setgenre / #setgenero - Establecer género
-• .delgenre / #delgenero - Eliminar género
-• .setbirth / #setnacimiento - Fecha nacimiento
-• .delbirth / #delnacimiento - Eliminar fecha
-• .setdescription / #setdesc - Descripción
-• .deldescription / #deldesc - Eliminar descripción
-• .lb / #lboard - Top usuarios XP
-• .level / #lvl - Ver nivel
-• .comprarpremium / #premium - Comprar premium
-• .confesiones / #confesar - Confesar sentimientos
+• .setgenre - Establecer género
+• .delgenre - Eliminar género
+• .setbirth - Fecha nacimiento
+• .delbirth - Eliminar fecha
+• .setdescription - Descripción
+• .deldescription - Eliminar descripción
+• .lb - Top usuarios XP
+• .level - Ver nivel
+• .comprarpremium - Comprar premium
+• .confesiones - Confesar sentimientos
 
 ⚙️ *INFORMACIÓN & CONFIG*
-• .ping / #p - Velocidad bot
-• .uptime / #runtime - Tiempo activo
-• .serbot / #serbot code - Crear SubBot
-• .qr / #code - Código QR SubBot
-• .status / #estado - Estado del bot
+• .ping - Velocidad bot
+• .uptime - Tiempo activo
+• .status - Estado del bot
 • .infobot - Info completa bot
-• .script / #sc - Código fuente
-• .staff / #colaboradores - Desarrolladores
-• .bots / #sockets - Lista Sub-Bots
-• .links / #grupos - Enlaces oficiales
-• .sug / #newcommand - Sugerir comando
-• .reporte / #reportar - Reportar errores
-• .sistema / #system - Estado sistema
-• .speed / #speedtest - Estadísticas velocidad
-• .views / #usuarios - Cantidad usuarios
-• .funciones / #totalfunciones - Ver funciones
-• .ds / #fixmsgespera - Limpiar sesión
+• .script - Código fuente
+• .staff  - Desarrolladores
+• .links - Enlaces oficiales
+• .sug - Sugerir comando
+• .reporte - Reportar errores
+• .sistema - Estado sistema
+• .speed - Estadísticas velocidad
+• .views - Cantidad usuarios
+• .funciones - Ver funciones
+• .ds - Limpiar sesión
 • .editautoresponder - Config auto respuesta
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-💙 *¿Tu propio bot?* Usa .code
-✨ Escribe el comando para usarlo`.trim()
+❤️ *¿Te gusta el bot?*❤️
+💥 Recuerda no abusar de los comandos 💥`.trim()
 
 await conn.sendMessage(m.chat, { 
 text: txt,
