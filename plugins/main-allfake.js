@@ -34,7 +34,7 @@ global.namechannel2 = '❤️KASANE TETO CHANNEL❤️'
 global.namegrupo = '❤️ KASANE TETO CHANNEL❤️'
 global.namecomu = '❤️KASANE TETO CHANNEL❤️'
 global.listo = '*Aquí tienes tu baguette 🥖'
-global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/3hruyj.png')
+global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/kozhvp.jpg')
 
 global.canalIdM = ["120363315369913363@newsletter", "120363315369913363@newsletter"]
 global.canalNombreM = ["❤️KASANE TETO CHANNEL❤️"]
