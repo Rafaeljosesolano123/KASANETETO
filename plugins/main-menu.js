@@ -17,79 +17,79 @@ let txt = `💫 *KASANE TETO BOT* 💫
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 🔍 *BUSCADORES*
-•❤️ .pinterest / #pin - Imágenes Pinterest
-•💫 .google - Búsquedas Google
-•🌟 .yts / #ytsearch - Videos YouTube
-•💥 .imagen / #image - Imágenes Google
-•🌹 .infoanime - Info anime/manga
-•🥖 .tiktoksearch / #tiktoks - Videos TikTok
+•❤️ .pinterest - Imágenes Pinterest
+•⏳ .google - Búsquedas Google
+•🖥️ .yts -Videos YouTube
+•🖼️ .imagen - Imágenes Google
+•💡 .infoanime - Info anime/manga
+•📱 .tiktoksearch - Videos TikTok
 •🎓 .githubsearch - Usuarios GitHub
-•✨ .cuevana / #cuevanasearch - Películas y series
-•❤️‍🔥 .tweetposts - Posts de Twitter/X
-•❣️ .hentaisearch - Contenido hentai
-•👾 .xnxxsearch / #xnxxs - Videos Xnxx
-•👻 .xvsearch / #xvideossearch - Videos Xvideos
-•🌷 .pornhubsearch / #phsearch - Videos Pornhub
-•💐 .npmjs - Paquetes NPM
+•🎥 .cuevana - Películas y series
+•🐔 .tweetposts - Posts de Twitter/X
+•🔞 .hentaisearch - Contenido hentai
+•🔞 .xnxxsearch - Videos Xnxx
+•🔞 .xvsearch - Videos Xvideos
+•🔞 .pornhubsearch - Videos Pornhub
+•❓ .npmjs - Paquetes NPM
 
 📥 *DESCARGAS*
-•🍎 .play / #play2 - Música/video YouTube
-•☄️ .tiktok / #tt - Videos TikTok
-•🔥 .instagram / #ig - Posts Instagram
-•💥 .facebook / #fb - Videos Facebook
-•🍁 .mediafire / #mf - Archivos MediaFire
-•🥖 .mega / #mg - Archivos MEGA
-•🪷 .twitter / #x - Videos Twitter/X
-•✨ .ytmp3 / #ytmp4 - YouTube por URL
-•❤️‍🔥 .pinvid / #pinvideo - Videos Pinterest
-•❣️ .terabox / #tb - Archivos Terabox
-•👾 .gitclone - Repositorios GitHub
-•👻 .apk / #modapk - APKs de Aptoide
-•🌷 .xvideosdl - Descargar Xvideos
-•💐 .xnxxdl - Descargar Xnxx
-•⚡ .tiktokrandom / #ttrandom - TikTok aleatorio
-•🍓 .npmdl / #npmdownloader - Paquetes NPM
+•🎵 .play - Música/video YouTube
+•🔍 .tiktok - Videos TikTok
+•🔮 .instagram - Posts Instagram
+•🔎 .facebook - Videos Facebook
+•👾 .mediafire - Archivos MediaFire
+•🎮 .mega - Archivos MEGA
+•✖️ .twitter - Videos Twitter/X
+•🛑 .ytmp3 - YouTube por URL
+•🎬 .pinvid - Videos Pinterest
+•🕹️ .terabox - Archivos Terabox
+•📢 .gitclone - Repositorios GitHub
+•👾 .apk  - APKs de Aptoide
+•🔞 .xvideosdl - Descargar Xvideos
+•🔞 .xnxxdl - Descargar Xnxx
+•🔞 .tiktokrandom - TikTok aleatorio
+•❓ .npmdl - Paquetes NPM
 
 🎨 *STICKERS*
-•🎧 .s / #sticker - Crear sticker
-•💓 .toimg / #img - Sticker a imagen
-•🌹 .emojimix - Mezclar emojis
-•☄️ .qc - Stickers con texto
-•👾 .ttp / #attp / #brat - Texto a sticker
-• .wm - Cambiar marca de agua
-•🌷 .setmeta - Establecer pack y autor
-•🍁 .delmeta - Eliminar pack stickers
-•🪷 .pfp / #getpic - Foto de perfil
+•🖇️ .s - Crear sticker
+•🖨️ .toimg - Sticker a imagen
+•⌛ .emojimix - Mezclar emojis
+•📝 .qc - Stickers con texto
+•✏️ .ttp - Texto a sticker
+• 💧.wm - Cambiar marca de agua
+•🪄 .setmeta - Establecer pack y autor
+•❌ .delmeta - Eliminar pack stickers
+•📸 .pfp - Foto de perfil
 
 💰 *ECONOMÍA & RPG*
-•🎁 .work / #trabajar - Trabajar
-•💎 .daily / #diario - Recompensa diaria
-•👑 .mine / #mining / #minar - Minar recursos
-•🏆 .casino / #apostar - Apostar
-•🥀 .cf / #suerte - Cara o cruz
-•🥖 .slot - Tragamonedas
-•❤️ .ruleta / #roulette / #rt - Ruleta
-•👻 .steal / #robar / #rob - Robar dinero
-•❤️‍🔥 .robarxp / #robxp - Robar XP
-•⚡ .bank / #banco - Ver banco
-•💫 .wallet / #cartera - Ver cartera
-•💎 .deposit / #depositar / #d - Depositar
-•👑 .withdraw / #retirar / #with - Retirar
-• .transfer / #pay - Transferir dinero
-• .buyall / #buy - Comprar con XP
-• .cofre - Cofre diario
-• .weekly / #semanal - Regalo semanal
-• .monthly / #mensual - Regalo mensual
-• .eboard / #baltop - Ranking millonarios
-• .aventura / #adventure - Aventurarse
-• .curar / #heal - Curar salud
-• .cazar / #hunt / #berburu - Cazar
-• .inv / #inventario - Ver inventario
-• .mazmorra / #explorar - Explorar mazmorras
-• .halloween - Dulce o truco
-• .christmas / #navidad - Regalo navideño
-• .crime / #crimen - Trabajar como ladrón
-• .slut / #prostituirse - Trabajo prostituta
+•📠 .work - Trabajar
+•💎 .daily - Recompensa diaria
+•⛏️ .mine - Minar recursos
+•🎰 .casino - Apostar
+•🪙 .cf - Cara o cruz
+•💸 .slot - Tragamonedas
+•🎰 .ruleta - Ruleta
+•💰 .steal - Robar dinero
+•✨ .robarxp - Robar XP
+•🏦 .bank - Ver banco
+•💳 .wallet  - Ver cartera
+•📥 .deposit - Depositar
+•📤 .withdraw  - Retirar
+•➡️ .transfer - Transferir dinero
+•💲 .buyall - Comprar con XP
+•📦 .cofre - Cofre diario
+•⏰ .weekly - Regalo semanal
+•🗓️ .monthly - Regalo mensual
+•🎩 .eboard - Ranking millonarios
+•⚔️ .aventura - Aventurarse
+•❤️‍🩹 .curar - Curar salud
+•🔫 .cazar - Cazar
+•📜 .inv - Ver inventario
+•🪨 .mazmorra - Explorar mazmorras
+•🎃 .halloween - Dulce o truco
+•🌨️ .christmas - Regalo navideño
+•🔓 .crime - Trabajar como ladrón
+•❤️‍🔥 .slut - Trabajo prostituta
 
 🎯 *GACHA & WAIFUS*
 • .rollwaifu / #rw / #roll - Buscar waifu
