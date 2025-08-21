@@ -92,53 +92,53 @@ let txt = `💫 *KASANE TETO BOT* 💫
 •❤️‍🔥 .slut - Trabajo prostituta
 
 🎯 *GACHA & WAIFUS*
-• .rollwaifu - Buscar waifu
-• .claim - Reclamar personaje
-• .harem - Ver colección
-• .charimage - Imagen personaje
-• .charinfo - Info personaje
-• .givechar - Regalar personaje
-• .vote - Votar personaje
-• .waifusboard - Top waifus
+•🔥 .rollwaifu - Buscar waifu
+•🎖️ .claim - Reclamar personaje
+•🛏️ .harem - Ver colección
+•📷 .charimage - Imagen personaje
+•📋 .charinfo - Info personaje
+•🎁 .givechar - Regalar personaje
+•✅ .vote - Votar personaje
+•🥇 .waifusboard - Top waifus
 
 🎮 *JUEGOS*
-• .ttt - Tres en raya
-• .ppt - Piedra/papel/tijera
-• .matematicas - Quiz matemático
-• .ahorcado - Juego del ahorcado
-• .sopa - Sopa de letras
-• .pvp - PvP contra usuario
+•🗒️ .ttt - Tres en raya
+•✂️ .ppt - Piedra/papel/tijera
+•📚 .matematicas - Quiz matemático
+•🪦 .ahorcado - Juego del ahorcado
+•🍲 .sopa - Sopa de letras
+•🆚 .pvp - PvP contra usuario
 
 👥 *GRUPOS (Solo admins)*
-• .hidetag - Mencionar todos oculto
-• .kick - Eliminar usuario
-• .add - Invitar usuario
-• .promote - Dar admin
-• .demote - Quitar admin
-• .link - Enlace del grupo
-• .revoke - Restablecer enlace
-• .group - Abrir/cerrar grupo
-• .warn - Advertir usuario
-• .unwarn - Quitar advertencias
-• .advlist - Ver advertidos
-• .mute - Silenciar usuario
-• .unmute - Quitar silencio
-• .delete - Eliminar mensaje
-• .admins - Mencionar admins
-• .gp - Info del grupo
-• .linea - Usuarios online
-• .setwelcome - Mensaje bienvenida
-• .setbye - Mensaje despedida
-• .encuesta - Crear encuesta
-• .fantasmas - Ver usuarios inactivos
-• .kickfantasmas - Eliminar inactivos
-• .invocar - Invocar todos
-• .setemoji - Cambiar emoji
-• .listnum - Eliminar por país
-• .gpbanner - Cambiar imagen grupo
-• .gpname - Cambiar nombre
-• .gpdesc - Cambiar descripción
-• .bot on/off - Encender/apagar bot
+•🔉 .hidetag - Mencionar todos oculto
+•🚫 .kick - Eliminar usuario
+•🫂 .add - Invitar usuario
+•❤️ .promote - Dar admin
+•💔 .demote - Quitar admin
+•🖇️ .link - Enlace del grupo
+•📎 .revoke - Restablecer enlace
+•🔐 .group - Abrir/cerrar grupo
+•⚠️ .warn - Advertir usuario
+•⚠️ .unwarn - Quitar advertencias
+•‼️ .advlist - Ver advertidos
+•🔇 .mute - Silenciar usuario
+•🔈 .unmute - Quitar silencio
+•❌ .delete - Eliminar mensaje
+•🔊 .admins - Mencionar admins
+•📊 .gp - Info del grupo
+•💻 .linea - Usuarios online
+•👋 .setwelcome - Mensaje bienvenida
+•👋 .setbye - Mensaje despedida
+•📋 .encuesta - Crear encuesta
+•👻 .fantasmas - Ver usuarios inactivos
+•💥 .kickfantasmas - Eliminar inactivos
+•🔊 .invocar - Invocar todos
+•😶‍🌫️ .setemoji - Cambiar emoji
+•🏴‍☠️ .listnum - Eliminar por país
+•🖼️ .gpbanner - Cambiar imagen grupo
+•✏️ .gpname - Cambiar nombre
+•📝 .gpdesc - Cambiar descripción
+•▶️ .bot on/off - Encender/apagar bot
 
 🛠️ *HERRAMIENTAS*
 • .clima - Ver clima
