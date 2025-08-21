@@ -31,8 +31,8 @@ global.creador = 'wa.me/5219535402567'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.namechannel = '❤️KASANE TETO CHANNEL❤️'
 global.namechannel2 = '❤️KASANE TETO CHANNEL❤️'
-global.namegrupo = '❤️ KASANE TETO CHANNEL❤️'
-global.namecomu = '❤️KASANE TETO CHANNEL❤️'
+global.namegrupo = '❤️KASANE-TETO❤️'
+global.namecomu = 'Los teto lovers❤️'
 global.listo = '*Aquí tienes tu baguette 🥖'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/kozhvp.jpg')
 
@@ -66,7 +66,7 @@ global.waittt = '❤️ Espera un momento, soy lenta...';
 global.waitttt = '❤️ Espera un momento, soy lenta...';
 
 var canal = 'https://whatsapp.com/channel/0029Vb6Wxwa3mFY1RdeE9K1c'  
-var comunidad = 'https://chat.whatsapp.com/FQ78boTUpJ7Ge3oEtn8pRE?mode=ac_t'
+var comunidad = 'https://chat.whatsapp.com/HbiwMDdzQgwApzyRDFhmEA'
 var git = 'https://github.com/Brauliovh3'
 var github = 'https://github.com/Brauliovh3/HATSUNE-MIKU' 
 let correo = 'velasquezhuillcab@gmail.com'
