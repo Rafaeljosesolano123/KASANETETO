@@ -1,6 +1,6 @@
 <div align="center">
   
-# ❤️ KASANE TETO CHANNEL ❤️
+# ❤️ KASANE-TETO-CHANNEL ❤️
 
 ![Kasane Teto Banner](https://files.catbox.moe/q80e3h.jpg)
 
